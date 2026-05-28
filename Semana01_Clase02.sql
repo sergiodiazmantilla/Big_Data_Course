@@ -55,4 +55,5 @@ else
 		print 'El producto tiene stock disponible'
 	end
 
+-- vista tabla Productos
 select * from Products
