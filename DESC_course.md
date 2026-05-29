@@ -7,3 +7,11 @@ Cada clase tiene su propio script, donde se pude ven los ejercicios y su descrip
 
 # Proyecto
 Proyecto desarrollado en el Curso como presentacion final
+
+# Enlaces
+- CAST y CONVERT
+https://learn.microsoft.com/es-es/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver17
+
+- Restricciones UNIQUE y CHECK
+https://learn.microsoft.com/es-es/sql/relational-databases/tables/unique-constraints-and-check-constraints?view=sql-server-ver17
+
