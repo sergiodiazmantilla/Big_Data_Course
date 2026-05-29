@@ -9,7 +9,8 @@ select top 10
 from Customers
 
 ------------------------
-
+-- USO DE TRY / CATCH
+------------------------
 begin try
 	insert into [dbo]. [Customers]
 	(
